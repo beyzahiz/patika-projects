@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class NotOrtHesaplama {
-
+	
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		int mat,fiz,kim,turkce,tarih,muz,ort;
